@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @dieserobin
-- I’m interested in data analysis and generative art.
+- interested in data analysis and generative art.
 - I’m currently learning python.
 
 <!---
