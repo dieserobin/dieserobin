@@ -1,5 +1,4 @@
-- interested in data analysis and generative art.
-- I’m currently learning python.
+interested in data analysis and generative art.
 
 <!---
 dieserobin/dieserobin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
